@@ -1,0 +1,9 @@
+{
+  "name": "lrt-motors",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": { "dev": "netlify dev" },
+  "dependencies": { "@netlify/database": "latest", "postgres": "latest" },
+  "devDependencies": { "netlify-cli": "latest" }
+}
